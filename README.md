@@ -1,3 +1,5 @@
+**Note: I will update this README as I implement the project**
+
 # Frontend Mentor - Tic Tac Toe solution
 
 This is a solution to the [Tic Tac Toe challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -58,7 +60,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [Chakra](https://chakra-ui.com/) - For styled components
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
